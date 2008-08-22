@@ -1,9 +1,20 @@
 // !$*UTF8*$!
 {
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {724, 625}}";
+			sepNavSelRange = "{86, 0}";
+			sepNavVisRange = "{0, 94}";
+			sepNavWindowFrame = "{{38, 14}, {783, 738}}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = BEE9BCD90E5F354700CBCEC3 /* MetaWindow */;
 		activeTarget = 8D1107260486CEB800E47090 /* MetaWindow */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MetaWindow */,
+		);
 		codeSenseManager = BEE9BCE90E5F354C00CBCEC3 /* Code sense */;
 		executables = (
 			BEE9BCD90E5F354700CBCEC3 /* MetaWindow */,
@@ -38,11 +49,48 @@
 		userBuildSettings = {
 		};
 	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 784}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 214}";
+			sepNavWindowFrame = "{{15, 35}, {783, 738}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MetaWindow_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 176}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 151}";
+			sepNavWindowFrame = "{{38, 14}, {783, 738}}";
+		};
+	};
+	77631A3E0C0748CF005415CB /* main.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {724, 625}}";
+			sepNavSelRange = "{91, 0}";
+			sepNavVisRange = "{0, 410}";
+			sepNavWindowFrame = "{{620, 38}, {783, 738}}";
+		};
+	};
+	7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 658}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 279}";
+			sepNavWindowFrame = "{{658, 40}, {783, 738}}";
+		};
+	};
 	8D1107260486CEB800E47090 /* MetaWindow */ = {
 		activeExec = 0;
 		executables = (
 			BEE9BCD90E5F354700CBCEC3 /* MetaWindow */,
 		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 35}, {783, 738}}";
+		};
 	};
 	BEE9BCD90E5F354700CBCEC3 /* MetaWindow */ = {
 		isa = PBXExecutable;
