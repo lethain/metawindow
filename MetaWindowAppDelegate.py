@@ -26,5 +26,3 @@ class MetaWindowAppDelegate(NSObject):
         
     def pathForFile(self,filename):
         return self.applicationSupportFolder().stringByAppendingPathComponent_(filename)
-        
-    NSApplication.sharedApplication().delegate()

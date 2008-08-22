@@ -50,6 +50,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				BEE9BD040E5F404A00CBCEC3 /* MWController.py */,
 				7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */,
 			);
 			name = Classes;
@@ -97,7 +98,6 @@
 		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
 			isa = PBXGroup;
 			children = (
-				BEE9BD040E5F404A00CBCEC3 /* MWController.py */,
 				32CA4F630368D1EE00C91783 /* MetaWindow_Prefix.pch */,
 				29B97316FDCFA39411CA2CEA /* main.m */,
 				77631A3E0C0748CF005415CB /* main.py */,
