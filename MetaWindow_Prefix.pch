@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MetaWindow' target in the 'MetaWindow' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
