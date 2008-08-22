@@ -3,7 +3,7 @@
 #  MetaWindow
 #
 #  Created by Will Larson on 8/22/08.
-#  Copyright Amy and my apartment 2008. All rights reserved.
+#  Copyright Will Larson 2008. All rights reserved.
 #
 
 #import modules required by application
