@@ -8,7 +8,6 @@
 		<string key="IBDocument.HIToolboxVersion">352.00</string>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
-			<integer value="378"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -762,7 +761,7 @@
 				<nil key="NSViewClass"/>
 				<string key="NSWindowContentMaxSize">{3.40282e+38, 3.40282e+38}</string>
 				<object class="NSView" key="NSWindowView" id="439893737">
-					<reference key="NSNextResponder"/>
+					<nil key="NSNextResponder"/>
 					<int key="NSvFlags">256</int>
 					<object class="NSMutableArray" key="NSSubviews">
 						<bool key="EncodedWithXMLCoder">YES</bool>
@@ -1005,7 +1004,6 @@
 						</object>
 					</object>
 					<string key="NSFrameSize">{480, 360}</string>
-					<reference key="NSSuperview"/>
 				</object>
 				<string key="NSScreenRect">{{0, 0}, {1440, 878}}</string>
 				<string key="NSMaxSize">{3.40282e+38, 3.40282e+38}</string>
@@ -1016,21 +1014,19 @@
 			<object class="NSCustomObject" id="728146579">
 				<string key="NSClassName">MWController</string>
 			</object>
-			<object class="NSArrayController" id="982657958">
+			<object class="NSArrayController" id="26244090">
 				<object class="NSMutableArray" key="NSDeclaredKeys">
 					<bool key="EncodedWithXMLCoder">YES</bool>
 					<string>name</string>
 					<string>article.id</string>
 				</object>
 				<bool key="NSEditable">YES</bool>
-				<bool key="NSAutomaticallyPreparesContent">YES</bool>
 				<object class="_NSManagedProxy" key="_NSManagedProxy"/>
 				<bool key="NSAvoidsEmptySelection">YES</bool>
 				<bool key="NSPreservesSelection">YES</bool>
 				<bool key="NSSelectsInsertedObjects">YES</bool>
 				<bool key="NSFilterRestrictsInsertion">YES</bool>
 				<bool key="NSClearsFilterPredicateOnInsertion">YES</bool>
-				<bool key="NSAutomaticallyRearrangesObjects">YES</bool>
 			</object>
 		</object>
 		<object class="IBObjectContainer" key="IBDocument.Objects">
@@ -1368,10 +1364,10 @@
 					<object class="IBBindingConnection" key="connection">
 						<string key="label">value: arrangedObjects.name</string>
 						<reference key="source" ref="557805162"/>
-						<reference key="destination" ref="982657958"/>
+						<reference key="destination" ref="26244090"/>
 						<object class="NSNibBindingConnector" key="connector">
 							<reference key="NSSource" ref="557805162"/>
-							<reference key="NSDestination" ref="982657958"/>
+							<reference key="NSDestination" ref="26244090"/>
 							<string key="NSLabel">value: arrangedObjects.name</string>
 							<string key="NSBinding">value</string>
 							<string key="NSKeyPath">arrangedObjects.name</string>
@@ -1384,10 +1380,10 @@
 					<object class="IBBindingConnection" key="connection">
 						<string key="label">value: arrangedObjects.article.id</string>
 						<reference key="source" ref="709530577"/>
-						<reference key="destination" ref="982657958"/>
+						<reference key="destination" ref="26244090"/>
 						<object class="NSNibBindingConnector" key="connector">
 							<reference key="NSSource" ref="709530577"/>
-							<reference key="NSDestination" ref="982657958"/>
+							<reference key="NSDestination" ref="26244090"/>
 							<string key="NSLabel">value: arrangedObjects.article.id</string>
 							<string key="NSBinding">value</string>
 							<string key="NSKeyPath">arrangedObjects.article.id</string>
@@ -1400,17 +1396,17 @@
 					<object class="IBOutletConnection" key="connection">
 						<string key="label">arrayController</string>
 						<reference key="source" ref="728146579"/>
-						<reference key="destination" ref="982657958"/>
+						<reference key="destination" ref="26244090"/>
 					</object>
 					<int key="connectionID">405</int>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBBindingConnection" key="connection">
 						<string key="label">contentArray: results</string>
-						<reference key="source" ref="982657958"/>
+						<reference key="source" ref="26244090"/>
 						<reference key="destination" ref="728146579"/>
 						<object class="NSNibBindingConnector" key="connector">
-							<reference key="NSSource" ref="982657958"/>
+							<reference key="NSSource" ref="26244090"/>
 							<reference key="NSDestination" ref="728146579"/>
 							<string key="NSLabel">contentArray: results</string>
 							<string key="NSBinding">contentArray</string>
@@ -1418,7 +1414,7 @@
 							<int key="NSNibBindingConnectorVersion">2</int>
 						</object>
 					</object>
-					<int key="connectionID">410</int>
+					<int key="connectionID">412</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -2147,7 +2143,7 @@
 					</object>
 					<object class="IBObjectRecord">
 						<int key="objectID">395</int>
-						<reference key="object" ref="982657958"/>
+						<reference key="object" ref="26244090"/>
 						<reference key="parent" ref="1049"/>
 					</object>
 				</object>
@@ -2489,9 +2485,9 @@
 					<reference ref="9"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<reference ref="9"/>
-					<string>{{190, 396}, {480, 360}}</string>
+					<string>{{295, 387}, {480, 360}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>{{190, 396}, {480, 360}}</string>
+					<string>{{295, 387}, {480, 360}}</string>
 					<reference ref="9"/>
 					<string>{{238, 285}, {480, 360}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -2567,7 +2563,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">410</int>
+			<int key="maxID">412</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">

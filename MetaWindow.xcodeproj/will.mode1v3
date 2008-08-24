@@ -281,7 +281,7 @@
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {186, 553}}</string>
+							<string>{{0, 0}, {186, 611}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -293,14 +293,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {203, 571}}</string>
+						<string>{{0, 0}, {203, 629}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>481 164 791 612 0 0 1280 778 </string>
+						<string>19 108 1033 670 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -330,7 +330,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BEA673830E60FAFD00FC6C91</string>
+										<string>BEA673A40E61102000FC6C91</string>
 										<key>history</key>
 										<array>
 											<string>BEE9BD0E0E5F6FBC00CBCEC3</string>
@@ -338,7 +338,7 @@
 											<string>BEE9BD2A0E5F74D200CBCEC3</string>
 											<string>BEA672FE0E60B55F00FC6C91</string>
 											<string>BEA672FF0E60B55F00FC6C91</string>
-											<string>BEA673180E60DAA800FC6C91</string>
+											<string>BEA6739E0E61063300FC6C91</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -360,14 +360,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {583, 301}}</string>
+								<string>{{0, 0}, {825, 359}}</string>
 								<key>RubberWindowFrame</key>
-								<string>481 164 791 612 0 0 1280 778 </string>
+								<string>19 108 1033 670 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>301pt</string>
+							<string>359pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -380,9 +380,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 306}, {583, 265}}</string>
+								<string>{{0, 364}, {825, 265}}</string>
 								<key>RubberWindowFrame</key>
-								<string>481 164 791 612 0 0 1280 778 </string>
+								<string>19 108 1033 670 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -391,7 +391,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>583pt</string>
+					<string>825pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -550,7 +550,7 @@
 		<string>/Users/will/git/MetaWindow/MetaWindow.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>481 164 791 612 0 0 1280 778 </string>
+	<string>19 108 1033 670 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
