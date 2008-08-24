@@ -300,7 +300,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>479 166 791 612 0 0 1280 778 </string>
+						<string>481 164 791 612 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -311,6 +311,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -328,7 +330,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BEA673030E60B55F00FC6C91</string>
+										<string>BEA673830E60FAFD00FC6C91</string>
 										<key>history</key>
 										<array>
 											<string>BEE9BD0E0E5F6FBC00CBCEC3</string>
@@ -336,7 +338,7 @@
 											<string>BEE9BD2A0E5F74D200CBCEC3</string>
 											<string>BEA672FE0E60B55F00FC6C91</string>
 											<string>BEA672FF0E60B55F00FC6C91</string>
-											<string>BEA673000E60B55F00FC6C91</string>
+											<string>BEA673180E60DAA800FC6C91</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -360,7 +362,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {583, 301}}</string>
 								<key>RubberWindowFrame</key>
-								<string>479 166 791 612 0 0 1280 778 </string>
+								<string>481 164 791 612 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -368,8 +370,6 @@
 							<string>301pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -382,7 +382,7 @@
 								<key>Frame</key>
 								<string>{{0, 306}, {583, 265}}</string>
 								<key>RubberWindowFrame</key>
-								<string>479 166 791 612 0 0 1280 778 </string>
+								<string>481 164 791 612 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -542,13 +542,15 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
+		<string>BEA673790E60F8CD00FC6C91</string>
+		<string>BEA6737A0E60F8CD00FC6C91</string>
 		<string>BEE9BD150E5F6FBC00CBCEC3</string>
 		<string>1CD10A99069EF8BA00B06720</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/will/git/MetaWindow/MetaWindow.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>479 166 791 612 0 0 1280 778 </string>
+	<string>481 164 791 612 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -878,6 +880,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -890,7 +894,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {600, 208}}</string>
 								<key>RubberWindowFrame</key>
-								<string>417 144 600 249 0 0 1280 778 </string>
+								<string>37 199 600 249 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugCLIModule</string>
@@ -919,11 +923,11 @@
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.consoleV3</string>
 			<key>WindowString</key>
-			<string>417 144 600 249 0 0 1280 778 </string>
+			<string>37 199 600 249 0 0 1280 778 </string>
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>Identifier</key>
