@@ -276,8 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>3</integer>
-									<integer>1</integer>
+									<integer>10</integer>
+									<integer>9</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -319,7 +319,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MetaWindowAppDelegate.py</string>
+								<string>MWController.py</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,19 +327,19 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MetaWindowAppDelegate.py</string>
+										<string>MWController.py</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BEBECB4A0E631FE200AD943E</string>
+										<string>BEBECB5A0E632CF300AD943E</string>
 										<key>history</key>
 										<array>
 											<string>BEE9BD0E0E5F6FBC00CBCEC3</string>
 											<string>BEE9BD2A0E5F74D200CBCEC3</string>
 											<string>BEA672FE0E60B55F00FC6C91</string>
 											<string>BEA672FF0E60B55F00FC6C91</string>
-											<string>BEBECB310E6319E500AD943E</string>
-											<string>BEBECB0C0E63157000AD943E</string>
+											<string>BEBECB4E0E63292600AD943E</string>
+											<string>BEBECB560E632C9900AD943E</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -362,6 +362,7 @@
 											<string>BEBECB140E63157000AD943E</string>
 											<string>BEBECB150E63157000AD943E</string>
 											<string>BEBECB320E6319E500AD943E</string>
+											<string>BEBECB500E63292600AD943E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -907,7 +908,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {600, 208}}</string>
 								<key>RubberWindowFrame</key>
-								<string>23 480 600 249 0 0 1280 778 </string>
+								<string>650 529 600 249 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugCLIModule</string>
@@ -936,7 +937,7 @@
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.consoleV3</string>
 			<key>WindowString</key>
-			<string>23 480 600 249 0 0 1280 778 </string>
+			<string>650 529 600 249 0 0 1280 778 </string>
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>

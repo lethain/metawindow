@@ -149,6 +149,16 @@
 			BEBECB480E631E1900AD943E /* PBXTextBookmark */ = BEBECB480E631E1900AD943E /* PBXTextBookmark */;
 			BEBECB490E631E3D00AD943E /* PBXTextBookmark */ = BEBECB490E631E3D00AD943E /* PBXTextBookmark */;
 			BEBECB4A0E631FE200AD943E /* PBXTextBookmark */ = BEBECB4A0E631FE200AD943E /* PBXTextBookmark */;
+			BEBECB4E0E63292600AD943E /* PBXTextBookmark */ = BEBECB4E0E63292600AD943E /* PBXTextBookmark */;
+			BEBECB4F0E63292600AD943E /* PBXTextBookmark */ = BEBECB4F0E63292600AD943E /* PBXTextBookmark */;
+			BEBECB500E63292600AD943E /* PBXTextBookmark */ = BEBECB500E63292600AD943E /* PBXTextBookmark */;
+			BEBECB510E63292600AD943E /* PBXTextBookmark */ = BEBECB510E63292600AD943E /* PBXTextBookmark */;
+			BEBECB520E63293800AD943E /* PBXTextBookmark */ = BEBECB520E63293800AD943E /* PBXTextBookmark */;
+			BEBECB530E63299A00AD943E /* PBXTextBookmark */ = BEBECB530E63299A00AD943E /* PBXTextBookmark */;
+			BEBECB560E632C9900AD943E /* PBXTextBookmark */ = BEBECB560E632C9900AD943E /* PBXTextBookmark */;
+			BEBECB570E632C9900AD943E /* PBXTextBookmark */ = BEBECB570E632C9900AD943E /* PBXTextBookmark */;
+			BEBECB590E632CE300AD943E /* PBXTextBookmark */ = BEBECB590E632CE300AD943E /* PBXTextBookmark */;
+			BEBECB5A0E632CF300AD943E /* PBXTextBookmark */ = BEBECB5A0E632CF300AD943E /* PBXTextBookmark */;
 			BEE9BD0E0E5F6FBC00CBCEC3 = BEE9BD0E0E5F6FBC00CBCEC3 /* PBXTextBookmark */;
 			BEE9BD110E5F6FBC00CBCEC3 = BEE9BD110E5F6FBC00CBCEC3 /* PBXTextBookmark */;
 			BEE9BD120E5F6FBC00CBCEC3 = BEE9BD120E5F6FBC00CBCEC3 /* PBXTextBookmark */;
@@ -186,9 +196,9 @@
 	};
 	7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {543, 700}}";
-			sepNavSelRange = "{901, 0}";
-			sepNavVisRange = "{451, 948}";
+			sepNavIntBoundsRect = "{{0, 0}, {543, 672}}";
+			sepNavSelRange = "{164, 0}";
+			sepNavVisRange = "{0, 654}";
 			sepNavWindowFrame = "{{658, 40}, {783, 738}}";
 		};
 	};
@@ -412,7 +422,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 12";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 608;
 		vrLoc = 0;
@@ -422,7 +432,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 12";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 608;
 		vrLoc = 0;
@@ -442,7 +452,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 12";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 608;
 		vrLoc = 0;
@@ -452,7 +462,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 12";
 		rLen = 0;
-		rLoc = 267;
+		rLoc = 278;
 		rType = 0;
 		vrLen = 608;
 		vrLoc = 0;
@@ -462,7 +472,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 23";
 		rLen = 0;
-		rLoc = 2457;
+		rLoc = 2690;
 		rType = 0;
 		vrLen = 653;
 		vrLoc = 0;
@@ -471,7 +481,7 @@
 		isa = PBXTextBookmark;
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 9";
-		rLen = 101;
+		rLen = 112;
 		rLoc = 134;
 		rType = 0;
 		vrLen = 665;
@@ -482,7 +492,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 19";
 		rLen = 0;
-		rLoc = 2078;
+		rLoc = 2121;
 		rType = 0;
 		vrLen = 720;
 		vrLoc = 21;
@@ -492,7 +502,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 23";
 		rLen = 0;
-		rLoc = 2164;
+		rLoc = 2465;
 		rType = 0;
 		vrLen = 713;
 		vrLoc = 133;
@@ -502,7 +512,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 24";
 		rLen = 0;
-		rLoc = 2078;
+		rLoc = 2121;
 		rType = 0;
 		vrLen = 771;
 		vrLoc = 133;
@@ -512,7 +522,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 30";
 		rLen = 0;
-		rLoc = 1232;
+		rLoc = 1275;
 		rType = 0;
 		vrLen = 824;
 		vrLoc = 255;
@@ -522,7 +532,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 18";
 		rLen = 466;
-		rLoc = 766;
+		rLoc = 809;
 		rType = 0;
 		vrLen = 699;
 		vrLoc = 192;
@@ -532,7 +542,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 16";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 640;
 		vrLoc = 37;
@@ -542,7 +552,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 21";
 		rLen = 0;
-		rLoc = 735;
+		rLoc = 778;
 		rType = 0;
 		vrLen = 740;
 		vrLoc = 193;
@@ -552,7 +562,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 30";
 		rLen = 0;
-		rLoc = 1023;
+		rLoc = 1066;
 		rType = 0;
 		vrLen = 692;
 		vrLoc = 287;
@@ -562,7 +572,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 31";
 		rLen = 0;
-		rLoc = 1069;
+		rLoc = 1112;
 		rType = 0;
 		vrLen = 695;
 		vrLoc = 287;
@@ -572,7 +582,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 35";
 		rLen = 0;
-		rLoc = 1203;
+		rLoc = 1246;
 		rType = 0;
 		vrLen = 754;
 		vrLoc = 375;
@@ -582,7 +592,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 21";
 		rLen = 0;
-		rLoc = 720;
+		rLoc = 763;
 		rType = 0;
 		vrLen = 680;
 		vrLoc = 167;
@@ -592,7 +602,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 19";
 		rLen = 0;
-		rLoc = 645;
+		rLoc = 688;
 		rType = 0;
 		vrLen = 715;
 		vrLoc = 167;
@@ -612,7 +622,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 19";
 		rLen = 0;
-		rLoc = 645;
+		rLoc = 688;
 		rType = 0;
 		vrLen = 715;
 		vrLoc = 167;
@@ -622,7 +632,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 19";
 		rLen = 0;
-		rLoc = 645;
+		rLoc = 688;
 		rType = 0;
 		vrLen = 715;
 		vrLoc = 167;
@@ -642,7 +652,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 23";
 		rLen = 0;
-		rLoc = 582;
+		rLoc = 625;
 		rType = 0;
 		vrLen = 718;
 		vrLoc = 193;
@@ -652,7 +662,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 23";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 709;
 		vrLoc = 193;
@@ -662,7 +672,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 26";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 685;
 		vrLoc = 287;
@@ -672,7 +682,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 28";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 741;
 		vrLoc = 287;
@@ -682,7 +692,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 779;
 		vrLoc = 343;
@@ -692,7 +702,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 785;
 		vrLoc = 343;
@@ -702,7 +712,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 28";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 804;
 		vrLoc = 343;
@@ -722,7 +732,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 32";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 793;
 		vrLoc = 360;
@@ -732,7 +742,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 32";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 793;
 		vrLoc = 360;
@@ -752,7 +762,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 31";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 866;
 		vrLoc = 478;
@@ -762,7 +772,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 38";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 822;
 		vrLoc = 616;
@@ -772,7 +782,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 38";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 898;
 		vrLoc = 572;
@@ -792,7 +802,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 40";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 907;
 		vrLoc = 616;
@@ -802,7 +812,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 39";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 907;
 		vrLoc = 572;
@@ -822,7 +832,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 39";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 904;
 		vrLoc = 616;
@@ -842,7 +852,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 39";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 904;
 		vrLoc = 616;
@@ -862,7 +872,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 40";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 907;
 		vrLoc = 616;
@@ -882,7 +892,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 890;
 		vrLoc = 567;
@@ -892,7 +902,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 38";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 912;
 		vrLoc = 832;
@@ -906,7 +916,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 23";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 860;
 		vrLoc = 729;
@@ -916,7 +926,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 72";
 		rLen = 0;
-		rLoc = 2373;
+		rLoc = 2606;
 		rType = 0;
 		vrLen = 1717;
 		vrLoc = 757;
@@ -926,7 +936,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 23";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 726;
 		vrLoc = 582;
@@ -936,7 +946,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 22";
 		rLen = 0;
-		rLoc = 535;
+		rLoc = 578;
 		rType = 0;
 		vrLen = 1451;
 		vrLoc = 215;
@@ -946,7 +956,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 788;
 		vrLoc = 542;
@@ -956,7 +966,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 10";
 		rLen = 0;
-		rLoc = 210;
+		rLoc = 221;
 		rType = 0;
 		vrLen = 1261;
 		vrLoc = 21;
@@ -966,7 +976,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 740;
 		vrLoc = 542;
@@ -976,7 +986,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 10";
 		rLen = 0;
-		rLoc = 191;
+		rLoc = 202;
 		rType = 0;
 		vrLen = 1217;
 		vrLoc = 21;
@@ -986,7 +996,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 788;
 		vrLoc = 542;
@@ -996,7 +1006,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 64";
 		rLen = 0;
-		rLoc = 1987;
+		rLoc = 2030;
 		rType = 0;
 		vrLen = 1717;
 		vrLoc = 794;
@@ -1006,7 +1016,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 788;
 		vrLoc = 542;
@@ -1016,7 +1026,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 66";
 		rLen = 0;
-		rLoc = 2040;
+		rLoc = 2083;
 		rType = 0;
 		vrLen = 1722;
 		vrLoc = 794;
@@ -1026,7 +1036,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 788;
 		vrLoc = 542;
@@ -1036,7 +1046,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 66";
 		rLen = 0;
-		rLoc = 2040;
+		rLoc = 2083;
 		rType = 0;
 		vrLen = 1722;
 		vrLoc = 794;
@@ -1046,7 +1056,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 788;
 		vrLoc = 542;
@@ -1056,7 +1066,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 25";
 		rLen = 0;
-		rLoc = 603;
+		rLoc = 646;
 		rType = 0;
 		vrLen = 788;
 		vrLoc = 542;
@@ -1076,7 +1086,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 77";
 		rLen = 0;
-		rLoc = 2373;
+		rLoc = 2606;
 		rType = 0;
 		vrLen = 1665;
 		vrLoc = 949;
@@ -1096,7 +1106,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 70";
 		rLen = 0;
-		rLoc = 2132;
+		rLoc = 2433;
 		rType = 0;
 		vrLen = 1679;
 		vrLoc = 1024;
@@ -1116,7 +1126,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 48";
 		rLen = 0;
-		rLoc = 1324;
+		rLoc = 1367;
 		rType = 0;
 		vrLen = 1678;
 		vrLoc = 992;
@@ -1136,7 +1146,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 49";
 		rLen = 0;
-		rLoc = 1378;
+		rLoc = 1421;
 		rType = 0;
 		vrLen = 1706;
 		vrLoc = 962;
@@ -1156,7 +1166,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 51";
 		rLen = 0;
-		rLoc = 1457;
+		rLoc = 1500;
 		rType = 0;
 		vrLen = 1700;
 		vrLoc = 962;
@@ -1175,8 +1185,8 @@
 		isa = PBXTextBookmark;
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 70";
-		rLen = 373;
-		rLoc = 2132;
+		rLen = 305;
+		rLoc = 2433;
 		rType = 0;
 		vrLen = 1691;
 		vrLoc = 856;
@@ -1196,7 +1206,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 69";
 		rLen = 0;
-		rLoc = 2132;
+		rLoc = 2433;
 		rType = 0;
 		vrLen = 1712;
 		vrLoc = 794;
@@ -1216,7 +1226,7 @@
 		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
 		name = "MWController.py: 71";
 		rLen = 0;
-		rLoc = 2236;
+		rLoc = 2537;
 		rType = 0;
 		vrLen = 1712;
 		vrLoc = 794;
@@ -1261,6 +1271,106 @@
 		vrLen = 948;
 		vrLoc = 451;
 	};
+	BEBECB4E0E63292600AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
+		name = "MetaWindowAppDelegate.py: 9";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	BEBECB4F0E63292600AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 25";
+		rLen = 0;
+		rLoc = 646;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 604;
+	};
+	BEBECB500E63292600AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
+		name = "MetaWindowAppDelegate.py: 9";
+		rLen = 0;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 654;
+		vrLoc = 0;
+	};
+	BEBECB510E63292600AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 9";
+		rLen = 112;
+		rLoc = 134;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 0;
+	};
+	BEBECB520E63293800AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 76";
+		rLen = 0;
+		rLoc = 2738;
+		rType = 0;
+		vrLen = 553;
+		vrLoc = 0;
+	};
+	BEBECB530E63299A00AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 14";
+		rLen = 198;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 131;
+	};
+	BEBECB560E632C9900AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 14";
+		rLen = 198;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 673;
+		vrLoc = 131;
+	};
+	BEBECB570E632C9900AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 81";
+		rLen = 0;
+		rLoc = 2606;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 1774;
+	};
+	BEBECB590E632CE300AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 75";
+		rLen = 0;
+		rLoc = 2401;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 1774;
+	};
+	BEBECB5A0E632CF300AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 77";
+		rLen = 0;
+		rLoc = 2485;
+		rType = 0;
+		vrLen = 965;
+		vrLoc = 1774;
+	};
 	BEE9BCD90E5F354700CBCEC3 /* MetaWindow */ = {
 		isa = PBXExecutable;
 		activeArgIndices = (
@@ -1300,9 +1410,9 @@
 	};
 	BEE9BD040E5F404A00CBCEC3 /* MWController.py */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {724, 1078}}";
-			sepNavSelRange = "{2236, 0}";
-			sepNavVisRange = "{794, 1712}";
+			sepNavIntBoundsRect = "{{0, 0}, {543, 1176}}";
+			sepNavSelRange = "{2485, 0}";
+			sepNavVisRange = "{1774, 965}";
 			sepNavWindowFrame = "{{132, 40}, {783, 738}}";
 		};
 	};

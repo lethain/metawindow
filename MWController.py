@@ -6,7 +6,7 @@
 #  Copyright (c) 2008 Will Larson. All rights reserved.
 #
 
-import objc, metaweb, webbrowser, pickle, datetime, md5
+import objc, metaweb, webbrowser, pickle, datetime, md5, threading
 from AppKit import *
 from Foundation import *
 
@@ -15,6 +15,7 @@ class MWController(NSObject):
     tableView = objc.IBOutlet()
     textField = objc.IBOutlet()
     arrayController = objc.IBOutlet()
+    indicator = objc.IBOutlet()
     results = []
     _cache = None
     
@@ -67,10 +68,16 @@ class MWController(NSObject):
     
     @objc.IBAction
     def search_(self,sender):
+        def retrieve():
+            self.indicator.startAnimation_(self)
+            data = metaweb.search(search_value)
+            self.cacheResultsForSearch(search_value,data)
+            self.indicator.stopAnimation_(self)
+            self.search_(self)
         search_value = self.textField.stringValue()
         cached = self.getCachedSearch(search_value)
         if cached is None:
-            cached = metaweb.search(search_value)
-            self.cacheResultsForSearch(search_value,cached)
+            retrieve()
+            return
         self.results = [ NSDictionary.dictionaryWithDictionary_(x) for x in cached]
         self.arrayController.rearrangeObjects()

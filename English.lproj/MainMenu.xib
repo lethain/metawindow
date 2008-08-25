@@ -8,6 +8,7 @@
 		<string key="IBDocument.HIToolboxVersion">352.00</string>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
+			<integer value="413"/>
 		</object>
 		<object class="NSArray" key="IBDocument.PluginDependencies">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -761,7 +762,7 @@
 				<nil key="NSViewClass"/>
 				<string key="NSWindowContentMaxSize">{3.40282e+38, 3.40282e+38}</string>
 				<object class="NSView" key="NSWindowView" id="439893737">
-					<nil key="NSNextResponder"/>
+					<reference key="NSNextResponder"/>
 					<int key="NSvFlags">256</int>
 					<object class="NSMutableArray" key="NSSubviews">
 						<bool key="EncodedWithXMLCoder">YES</bool>
@@ -906,6 +907,7 @@
 									</object>
 									<string key="NSFrame">{{1, 17}, {423, 257}}</string>
 									<reference key="NSSuperview" ref="860360518"/>
+									<reference key="NSNextKeyView" ref="319176000"/>
 									<reference key="NSDocView" ref="319176000"/>
 									<reference key="NSBGColor" ref="23292887"/>
 									<int key="NScvFlags">4</int>
@@ -939,6 +941,7 @@
 									</object>
 									<string key="NSFrame">{{1, 0}, {423, 17}}</string>
 									<reference key="NSSuperview" ref="860360518"/>
+									<reference key="NSNextKeyView" ref="990088152"/>
 									<reference key="NSDocView" ref="990088152"/>
 									<reference key="NSBGColor" ref="23292887"/>
 									<int key="NScvFlags">4</int>
@@ -947,6 +950,7 @@
 							</object>
 							<string key="NSFrame">{{20, 17}, {440, 290}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
+							<reference key="NSNextKeyView" ref="293611888"/>
 							<int key="NSsFlags">50</int>
 							<reference key="NSVScroller" ref="153473998"/>
 							<reference key="NSHScroller" ref="483448740"/>
@@ -958,7 +962,7 @@
 						<object class="NSTextField" id="66143152">
 							<reference key="NSNextResponder" ref="439893737"/>
 							<int key="NSvFlags">266</int>
-							<string key="NSFrame">{{20, 318}, {314, 22}}</string>
+							<string key="NSFrame">{{44, 318}, {290, 22}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSTextFieldCell" key="NSCell" id="136028251">
@@ -1002,8 +1006,19 @@
 								<int key="NSPeriodicInterval">75</int>
 							</object>
 						</object>
+						<object class="NSProgressIndicator" id="355976036">
+							<reference key="NSNextResponder" ref="439893737"/>
+							<int key="NSvFlags">1292</int>
+							<object class="NSPSMatrix" key="NSDrawMatrix"/>
+							<string key="NSFrame">{{20, 319}, {16, 16}}</string>
+							<reference key="NSSuperview" ref="439893737"/>
+							<int key="NSpiFlags">20746</int>
+							<double key="NSMinValue">1.600000e+01</double>
+							<double key="NSMaxValue">1.000000e+02</double>
+						</object>
 					</object>
 					<string key="NSFrameSize">{480, 360}</string>
+					<reference key="NSSuperview"/>
 				</object>
 				<string key="NSScreenRect">{{0, 0}, {1440, 878}}</string>
 				<string key="NSMaxSize">{3.40282e+38, 3.40282e+38}</string>
@@ -1415,6 +1430,14 @@
 						</object>
 					</object>
 					<int key="connectionID">412</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBOutletConnection" key="connection">
+						<string key="label">indicator</string>
+						<reference key="source" ref="728146579"/>
+						<reference key="destination" ref="355976036"/>
+					</object>
+					<int key="connectionID">414</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -2034,6 +2057,7 @@
 							<reference ref="328971554"/>
 							<reference ref="66143152"/>
 							<reference ref="860360518"/>
+							<reference ref="355976036"/>
 						</object>
 						<reference key="parent" ref="972006081"/>
 					</object>
@@ -2145,6 +2169,11 @@
 						<int key="objectID">395</int>
 						<reference key="object" ref="26244090"/>
 						<reference key="parent" ref="1049"/>
+					</object>
+					<object class="IBObjectRecord">
+						<int key="objectID">413</int>
+						<reference key="object" ref="355976036"/>
+						<reference key="parent" ref="439893737"/>
 					</object>
 				</object>
 			</object>
@@ -2311,6 +2340,7 @@
 					<string>387.IBPluginDependency</string>
 					<string>388.IBPluginDependency</string>
 					<string>395.IBPluginDependency</string>
+					<string>413.IBPluginDependency</string>
 					<string>5.IBPluginDependency</string>
 					<string>5.ImportedFromIB2</string>
 					<string>56.IBPluginDependency</string>
@@ -2485,11 +2515,12 @@
 					<reference ref="9"/>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<reference ref="9"/>
-					<string>{{295, 387}, {480, 360}}</string>
+					<string>{{204, 124}, {480, 360}}</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
-					<string>{{295, 387}, {480, 360}}</string>
+					<string>{{204, 124}, {480, 360}}</string>
 					<reference ref="9"/>
 					<string>{{238, 285}, {480, 360}}</string>
+					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
 					<string>com.apple.InterfaceBuilder.CocoaPlugin</string>
@@ -2563,7 +2594,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">412</int>
+			<int key="maxID">414</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
@@ -2580,11 +2611,13 @@
 						<object class="NSMutableArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<string>arrayController</string>
+							<string>indicator</string>
 							<string>tableView</string>
 							<string>textField</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>id</string>
 							<string>id</string>
 							<string>id</string>
 							<string>id</string>
