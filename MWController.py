@@ -68,16 +68,12 @@ class MWController(NSObject):
     
     @objc.IBAction
     def search_(self,sender):
-        def retrieve():
-            self.indicator.startAnimation_(self)
-            data = metaweb.search(search_value)
-            self.cacheResultsForSearch(search_value,data)
-            self.indicator.stopAnimation_(self)
-            self.search_(self)
         search_value = self.textField.stringValue()
         cached = self.getCachedSearch(search_value)
         if cached is None:
-            retrieve()
-            return
+            self.indicator.startAnimation_(self)
+            cached = metaweb.search(search_value)
+            self.cacheResultsForSearch(search_value,cached)
+            self.indicator.stopAnimation_(self)
         self.results = [ NSDictionary.dictionaryWithDictionary_(x) for x in cached]
         self.arrayController.rearrangeObjects()

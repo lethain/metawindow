@@ -301,7 +301,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>18 115 812 663 0 0 1280 778 </string>
+						<string>206 114 812 663 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -331,7 +331,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BEBECB5A0E632CF300AD943E</string>
+										<string>BEBECB650E632F3400AD943E</string>
 										<key>history</key>
 										<array>
 											<string>BEE9BD0E0E5F6FBC00CBCEC3</string>
@@ -376,7 +376,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {604, 352}}</string>
 								<key>RubberWindowFrame</key>
-								<string>18 115 812 663 0 0 1280 778 </string>
+								<string>206 114 812 663 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -396,7 +396,7 @@
 								<key>Frame</key>
 								<string>{{0, 357}, {604, 265}}</string>
 								<key>RubberWindowFrame</key>
-								<string>18 115 812 663 0 0 1280 778 </string>
+								<string>206 114 812 663 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -564,7 +564,7 @@
 		<string>/Users/will/git/MetaWindow/MetaWindow.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>18 115 812 663 0 0 1280 778 </string>
+	<string>206 114 812 663 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
