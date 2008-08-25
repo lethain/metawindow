@@ -6,7 +6,7 @@
 #  Copyright Will Larson 2008. All rights reserved.
 #
 
-import os,pickle
+import os,pickle,datetime
 from Foundation import *
 from AppKit import *
 
@@ -21,6 +21,14 @@ class MetaWindowAppDelegate(NSObject):
             self.cache = {}
     
     def applicationWillTerminate_(self,sender):
+        yesterday = datetime.datetime.now() - datetime.timedelta(days=1)
+        for key in self.cache:
+            filename,createdTime = self.cache[key]
+            if createdTime < yesterday:
+                filepath = self.pathForFile(filename)
+                os.remove(filepath)
+                del self.cache[key]
+    
         path = self.pathForFile('cache.serialized')
         file = open(path,'w')
         pickle.dump(self.cache,file)

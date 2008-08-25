@@ -143,6 +143,12 @@
 			BEBECB420E631A9000AD943E /* PBXTextBookmark */ = BEBECB420E631A9000AD943E /* PBXTextBookmark */;
 			BEBECB430E631ADD00AD943E /* PBXTextBookmark */ = BEBECB430E631ADD00AD943E /* PBXTextBookmark */;
 			BEBECB440E631ADD00AD943E /* PBXTextBookmark */ = BEBECB440E631ADD00AD943E /* PBXTextBookmark */;
+			BEBECB450E631AF600AD943E /* PBXTextBookmark */ = BEBECB450E631AF600AD943E /* PBXTextBookmark */;
+			BEBECB460E631AF600AD943E /* PBXTextBookmark */ = BEBECB460E631AF600AD943E /* PBXTextBookmark */;
+			BEBECB470E631DE400AD943E /* PBXTextBookmark */ = BEBECB470E631DE400AD943E /* PBXTextBookmark */;
+			BEBECB480E631E1900AD943E /* PBXTextBookmark */ = BEBECB480E631E1900AD943E /* PBXTextBookmark */;
+			BEBECB490E631E3D00AD943E /* PBXTextBookmark */ = BEBECB490E631E3D00AD943E /* PBXTextBookmark */;
+			BEBECB4A0E631FE200AD943E /* PBXTextBookmark */ = BEBECB4A0E631FE200AD943E /* PBXTextBookmark */;
 			BEE9BD0E0E5F6FBC00CBCEC3 = BEE9BD0E0E5F6FBC00CBCEC3 /* PBXTextBookmark */;
 			BEE9BD110E5F6FBC00CBCEC3 = BEE9BD110E5F6FBC00CBCEC3 /* PBXTextBookmark */;
 			BEE9BD120E5F6FBC00CBCEC3 = BEE9BD120E5F6FBC00CBCEC3 /* PBXTextBookmark */;
@@ -180,9 +186,9 @@
 	};
 	7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {543, 560}}";
-			sepNavSelRange = "{649, 0}";
-			sepNavVisRange = "{242, 922}";
+			sepNavIntBoundsRect = "{{0, 0}, {543, 700}}";
+			sepNavSelRange = "{901, 0}";
+			sepNavVisRange = "{451, 948}";
 			sepNavWindowFrame = "{{658, 40}, {783, 738}}";
 		};
 	};
@@ -396,7 +402,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 28";
 		rLen = 0;
-		rLoc = 1252;
+		rLoc = 1587;
 		rType = 0;
 		vrLen = 931;
 		vrLoc = 30;
@@ -426,7 +432,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 28";
 		rLen = 0;
-		rLoc = 1252;
+		rLoc = 1587;
 		rType = 0;
 		vrLen = 931;
 		vrLoc = 30;
@@ -596,7 +602,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 957;
 		vrLoc = 296;
@@ -626,7 +632,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 957;
 		vrLoc = 296;
@@ -706,7 +712,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 868;
 		vrLoc = 296;
@@ -736,7 +742,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 868;
 		vrLoc = 296;
@@ -776,7 +782,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 868;
 		vrLoc = 296;
@@ -806,7 +812,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 868;
 		vrLoc = 296;
@@ -826,7 +832,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 868;
 		vrLoc = 296;
@@ -846,7 +852,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 868;
 		vrLoc = 296;
@@ -866,7 +872,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 868;
 		vrLoc = 296;
@@ -1060,7 +1066,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 886;
 		vrLoc = 242;
@@ -1080,7 +1086,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 886;
 		vrLoc = 242;
@@ -1100,7 +1106,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 886;
 		vrLoc = 242;
@@ -1120,7 +1126,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 242;
@@ -1140,7 +1146,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 242;
@@ -1160,7 +1166,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 242;
@@ -1180,7 +1186,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 25";
 		rLen = 0;
-		rLoc = 649;
+		rLoc = 984;
 		rType = 0;
 		vrLen = 922;
 		vrLoc = 242;
@@ -1194,6 +1200,66 @@
 		rType = 0;
 		vrLen = 1712;
 		vrLoc = 794;
+	};
+	BEBECB450E631AF600AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
+		name = "MetaWindowAppDelegate.py: 25";
+		rLen = 0;
+		rLoc = 984;
+		rType = 0;
+		vrLen = 922;
+		vrLoc = 242;
+	};
+	BEBECB460E631AF600AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */;
+		name = "MWController.py: 71";
+		rLen = 0;
+		rLoc = 2236;
+		rType = 0;
+		vrLen = 1712;
+		vrLoc = 794;
+	};
+	BEBECB470E631DE400AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
+		name = "MetaWindowAppDelegate.py: 25";
+		rLen = 0;
+		rLoc = 984;
+		rType = 0;
+		vrLen = 922;
+		vrLoc = 242;
+	};
+	BEBECB480E631E1900AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
+		name = "MetaWindowAppDelegate.py: 24";
+		rLen = 0;
+		rLoc = 901;
+		rType = 0;
+		vrLen = 804;
+		vrLoc = 365;
+	};
+	BEBECB490E631E3D00AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
+		name = "MetaWindowAppDelegate.py: 9";
+		rLen = 71;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 590;
+		vrLoc = 0;
+	};
+	BEBECB4A0E631FE200AD943E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
+		name = "MetaWindowAppDelegate.py: 30";
+		rLen = 0;
+		rLoc = 901;
+		rType = 0;
+		vrLen = 948;
+		vrLoc = 451;
 	};
 	BEE9BCD90E5F354700CBCEC3 /* MetaWindow */ = {
 		isa = PBXExecutable;
@@ -1235,9 +1301,9 @@
 	BEE9BD040E5F404A00CBCEC3 /* MWController.py */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {724, 1078}}";
-			sepNavSelRange = "{2132, 0}";
+			sepNavSelRange = "{2236, 0}";
 			sepNavVisRange = "{794, 1712}";
-			sepNavWindowFrame = "{{475, -5}, {783, 738}}";
+			sepNavWindowFrame = "{{132, 40}, {783, 738}}";
 		};
 	};
 	BEE9BD0E0E5F6FBC00CBCEC3 /* PBXTextBookmark */ = {
@@ -1295,7 +1361,7 @@
 		fRef = 7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */;
 		name = "MetaWindowAppDelegate.py: 28";
 		rLen = 0;
-		rLoc = 1252;
+		rLoc = 1587;
 		rType = 0;
 		vrLen = 524;
 		vrLoc = 437;
