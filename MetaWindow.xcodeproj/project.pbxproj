@@ -16,6 +16,7 @@
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		BEA672E20E60965500FC6C91 /* metaweb.py in Resources */ = {isa = PBXBuildFile; fileRef = BEA672E10E60965500FC6C91 /* metaweb.py */; };
 		BEE74BF80E6437630081791E /* MWDragWindow.py in Resources */ = {isa = PBXBuildFile; fileRef = BEE74BF70E6437630081791E /* MWDragWindow.py */; };
+		BEE74C160E646F0B0081791E /* MWDragArrayController.py in Resources */ = {isa = PBXBuildFile; fileRef = BEE74C150E646F0B0081791E /* MWDragArrayController.py */; };
 		BEE9BD050E5F404A00CBCEC3 /* MWController.py in Resources */ = {isa = PBXBuildFile; fileRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +36,7 @@
 		8D1107320486CEB800E47090 /* MetaWindow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MetaWindow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEA672E10E60965500FC6C91 /* metaweb.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = metaweb.py; sourceTree = "<group>"; };
 		BEE74BF70E6437630081791E /* MWDragWindow.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MWDragWindow.py; sourceTree = "<group>"; };
+		BEE74C150E646F0B0081791E /* MWDragArrayController.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MWDragArrayController.py; sourceTree = "<group>"; };
 		BEE9BD040E5F404A00CBCEC3 /* MWController.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MWController.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,6 +56,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				BEE74C150E646F0B0081791E /* MWDragArrayController.py */,
 				BEE9BD040E5F404A00CBCEC3 /* MWController.py */,
 				7790198E0C07548A00326F66 /* MetaWindowAppDelegate.py */,
 				BEE74BF70E6437630081791E /* MWDragWindow.py */,
@@ -180,6 +183,7 @@
 				BEE9BD050E5F404A00CBCEC3 /* MWController.py in Resources */,
 				BEA672E20E60965500FC6C91 /* metaweb.py in Resources */,
 				BEE74BF80E6437630081791E /* MWDragWindow.py in Resources */,
+				BEE74C160E646F0B0081791E /* MWDragArrayController.py in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

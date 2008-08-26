@@ -231,8 +231,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -278,8 +276,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>2</integer>
-									<integer>1</integer>
+									<integer>12</integer>
+									<integer>11</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -303,7 +301,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>-3 115 812 663 0 0 1280 778 </string>
+						<string>81 115 812 663 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -314,12 +312,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MSDragWindow.py</string>
+								<string>MWDragArrayController.py</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,20 +327,21 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MSDragWindow.py</string>
+										<string>MWDragArrayController.py</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BEE74BEF0E6437300081791E</string>
+										<string>BEE74CAD0E6479B40081791E</string>
 										<key>history</key>
 										<array>
 											<string>BEE9BD0E0E5F6FBC00CBCEC3</string>
 											<string>BEE9BD2A0E5F74D200CBCEC3</string>
 											<string>BEA672FE0E60B55F00FC6C91</string>
-											<string>BEA672FF0E60B55F00FC6C91</string>
 											<string>BEBECB4E0E63292600AD943E</string>
-											<string>BEE74BEC0E6437300081791E</string>
-											<string>BEE74BED0E6437300081791E</string>
+											<string>BEE74C170E646F110081791E</string>
+											<string>BEE74C190E646F110081791E</string>
+											<string>BEE74C310E64703E0081791E</string>
+											<string>BEE74C320E64703E0081791E</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -350,7 +351,12 @@
 											<string>BEE9BD2C0E5F74D200CBCEC3</string>
 											<string>BEA672F80E60ABD800FC6C91</string>
 											<string>BEA673010E60B55F00FC6C91</string>
-											<string>BEE74BEE0E6437300081791E</string>
+											<string>BEE74C1B0E646F110081791E</string>
+											<string>BEE74C1C0E646F110081791E</string>
+											<string>BEE74C1D0E646F110081791E</string>
+											<string>BEE74C1E0E646F110081791E</string>
+											<string>BEE74C2F0E646F910081791E</string>
+											<string>BEE74C330E64703E0081791E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -364,7 +370,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {604, 352}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-3 115 812 663 0 0 1280 778 </string>
+								<string>81 115 812 663 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -384,7 +390,7 @@
 								<key>Frame</key>
 								<string>{{0, 357}, {604, 265}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-3 115 812 663 0 0 1280 778 </string>
+								<string>81 115 812 663 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -544,11 +550,15 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>BEE74C220E646F110081791E</string>
+		<string>BEE74C230E646F110081791E</string>
+		<string>BEE9BD150E5F6FBC00CBCEC3</string>
 		<string>1CD10A99069EF8BA00B06720</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/will/git/MetaWindow/MetaWindow.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>-3 115 812 663 0 0 1280 778 </string>
+	<string>81 115 812 663 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -625,7 +635,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>BEE9BD150E5F6FBC00CBCEC3</string>
-				<string>BEBECAB10E62454800AD943E</string>
+				<string>BEE74C200E646F110081791E</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -915,7 +925,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>BEBECAB80E62454800AD943E</string>
+				<string>BEE74C210E646F110081791E</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

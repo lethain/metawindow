@@ -18,6 +18,7 @@ import metaweb
 import MetaWindowAppDelegate
 import MWController
 import MWDragWindow
+import MWDragArrayController
 
 # pass control to AppKit
 AppHelper.runEventLoop()
