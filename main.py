@@ -17,6 +17,7 @@ from PyObjCTools import AppHelper
 import metaweb
 import MetaWindowAppDelegate
 import MWController
+import MWDragWindow
 
 # pass control to AppKit
 AppHelper.runEventLoop()

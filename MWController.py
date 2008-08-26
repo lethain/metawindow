@@ -65,6 +65,10 @@ class MWController(NSObject):
         pickle.dump(results,file)
         file.close()
         self.cache[searchString] = (filename,datetime.datetime.now())
+        
+    def dragSearch(self,searchString):
+        self.textField.setStringValue_(searchString)
+        self.search_(self)
     
     @objc.IBAction
     def search_(self,sender):

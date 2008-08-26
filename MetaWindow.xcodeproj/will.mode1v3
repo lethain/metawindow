@@ -231,6 +231,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -276,8 +278,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>10</integer>
-									<integer>9</integer>
+									<integer>2</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -301,7 +303,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>206 114 812 663 0 0 1280 778 </string>
+						<string>-3 115 812 663 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -312,14 +314,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>MWController.py</string>
+								<string>MSDragWindow.py</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,11 +327,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>MWController.py</string>
+										<string>MSDragWindow.py</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BEBECB650E632F3400AD943E</string>
+										<string>BEE74BEF0E6437300081791E</string>
 										<key>history</key>
 										<array>
 											<string>BEE9BD0E0E5F6FBC00CBCEC3</string>
@@ -339,7 +339,8 @@
 											<string>BEA672FE0E60B55F00FC6C91</string>
 											<string>BEA672FF0E60B55F00FC6C91</string>
 											<string>BEBECB4E0E63292600AD943E</string>
-											<string>BEBECB560E632C9900AD943E</string>
+											<string>BEE74BEC0E6437300081791E</string>
+											<string>BEE74BED0E6437300081791E</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -349,20 +350,7 @@
 											<string>BEE9BD2C0E5F74D200CBCEC3</string>
 											<string>BEA672F80E60ABD800FC6C91</string>
 											<string>BEA673010E60B55F00FC6C91</string>
-											<string>BEBECAF80E63064A00AD943E</string>
-											<string>BEBECAF90E63064A00AD943E</string>
-											<string>BEBECB070E630F4500AD943E</string>
-											<string>BEBECB080E630F4500AD943E</string>
-											<string>BEBECB0E0E63157000AD943E</string>
-											<string>BEBECB0F0E63157000AD943E</string>
-											<string>BEBECB100E63157000AD943E</string>
-											<string>BEBECB110E63157000AD943E</string>
-											<string>BEBECB120E63157000AD943E</string>
-											<string>BEBECB130E63157000AD943E</string>
-											<string>BEBECB140E63157000AD943E</string>
-											<string>BEBECB150E63157000AD943E</string>
-											<string>BEBECB320E6319E500AD943E</string>
-											<string>BEBECB500E63292600AD943E</string>
+											<string>BEE74BEE0E6437300081791E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -376,7 +364,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {604, 352}}</string>
 								<key>RubberWindowFrame</key>
-								<string>206 114 812 663 0 0 1280 778 </string>
+								<string>-3 115 812 663 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -396,7 +384,7 @@
 								<key>Frame</key>
 								<string>{{0, 357}, {604, 265}}</string>
 								<key>RubberWindowFrame</key>
-								<string>206 114 812 663 0 0 1280 778 </string>
+								<string>-3 115 812 663 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -420,9 +408,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BEBECAAA0E61CCD000AD943E</string>
+				<string>BEE74BD90E642FE50081791E</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>BEBECAAB0E61CCD000AD943E</string>
+				<string>BEE74BDA0E642FE50081791E</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -556,15 +544,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>BEBECAFB0E63064A00AD943E</string>
-		<string>BEBECAFC0E63064A00AD943E</string>
 		<string>1CD10A99069EF8BA00B06720</string>
-		<string>BEE9BD150E5F6FBC00CBCEC3</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/will/git/MetaWindow/MetaWindow.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>206 114 812 663 0 0 1280 778 </string>
+	<string>-3 115 812 663 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -683,8 +667,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 198}}</string>
-											<string>{{316, 0}, {378, 198}}</string>
+											<string>{{0, 0}, {316, 201}}</string>
+											<string>{{316, 0}, {378, 201}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -699,8 +683,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 198}}</string>
-											<string>{{0, 198}, {694, 183}}</string>
+											<string>{{0, 0}, {694, 201}}</string>
+											<string>{{0, 201}, {694, 180}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -733,7 +717,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 198}}</string>
+									<string>{{316, 0}, {378, 201}}</string>
 									<key>RubberWindowFrame</key>
 									<string>520 282 694 422 0 0 1280 778 </string>
 								</dict>
@@ -761,13 +745,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>BEBECAB20E62454800AD943E</string>
+				<string>BEE74BF00E6437300081791E</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>BEBECAB30E62454800AD943E</string>
-				<string>BEBECAB40E62454800AD943E</string>
-				<string>BEBECAB50E62454800AD943E</string>
-				<string>BEBECAB60E62454800AD943E</string>
-				<string>BEBECAB70E62454800AD943E</string>
+				<string>BEE74BF10E6437300081791E</string>
+				<string>BEE74BF20E6437300081791E</string>
+				<string>BEE74BF30E6437300081791E</string>
+				<string>BEE74BF40E6437300081791E</string>
+				<string>BEE74BF50E6437300081791E</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
