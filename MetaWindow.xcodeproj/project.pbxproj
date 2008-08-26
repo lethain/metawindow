@@ -17,6 +17,8 @@
 		BEA672E20E60965500FC6C91 /* metaweb.py in Resources */ = {isa = PBXBuildFile; fileRef = BEA672E10E60965500FC6C91 /* metaweb.py */; };
 		BEE74BF80E6437630081791E /* MWDragWindow.py in Resources */ = {isa = PBXBuildFile; fileRef = BEE74BF70E6437630081791E /* MWDragWindow.py */; };
 		BEE74C160E646F0B0081791E /* MWDragArrayController.py in Resources */ = {isa = PBXBuildFile; fileRef = BEE74C150E646F0B0081791E /* MWDragArrayController.py */; };
+		BEE74CB40E647FDB0081791E /* MWRowWindowController.py in Resources */ = {isa = PBXBuildFile; fileRef = BEE74CB30E647FDB0081791E /* MWRowWindowController.py */; };
+		BEE74CCE0E64865C0081791E /* RowWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = BEE74CCD0E64865C0081791E /* RowWindow.xib */; };
 		BEE9BD050E5F404A00CBCEC3 /* MWController.py in Resources */ = {isa = PBXBuildFile; fileRef = BEE9BD040E5F404A00CBCEC3 /* MWController.py */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +39,8 @@
 		BEA672E10E60965500FC6C91 /* metaweb.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = metaweb.py; sourceTree = "<group>"; };
 		BEE74BF70E6437630081791E /* MWDragWindow.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MWDragWindow.py; sourceTree = "<group>"; };
 		BEE74C150E646F0B0081791E /* MWDragArrayController.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MWDragArrayController.py; sourceTree = "<group>"; };
+		BEE74CB30E647FDB0081791E /* MWRowWindowController.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MWRowWindowController.py; sourceTree = "<group>"; };
+		BEE74CCD0E64865C0081791E /* RowWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RowWindow.xib; sourceTree = "<group>"; };
 		BEE9BD040E5F404A00CBCEC3 /* MWController.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = MWController.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -94,6 +98,7 @@
 		29B97314FDCFA39411CA2CEA /* MetaWindow */ = {
 			isa = PBXGroup;
 			children = (
+				BEE74CB30E647FDB0081791E /* MWRowWindowController.py */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -117,6 +122,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				BEE74CCD0E64865C0081791E /* RowWindow.xib */,
 				77C8C1F70C07829500965286 /* MainMenu.xib */,
 				8D1107310486CEB800E47090 /* Info.plist */,
 				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
@@ -184,6 +190,8 @@
 				BEA672E20E60965500FC6C91 /* metaweb.py in Resources */,
 				BEE74BF80E6437630081791E /* MWDragWindow.py in Resources */,
 				BEE74C160E646F0B0081791E /* MWDragArrayController.py in Resources */,
+				BEE74CB40E647FDB0081791E /* MWRowWindowController.py in Resources */,
+				BEE74CCE0E64865C0081791E /* RowWindow.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

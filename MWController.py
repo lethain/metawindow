@@ -7,6 +7,7 @@
 #
 
 import objc, metaweb, webbrowser, pickle, datetime, md5, threading
+from MWRowWindowController import MWRowWindowController
 from AppKit import *
 from Foundation import *
 
@@ -17,6 +18,7 @@ class MWController(NSObject):
     arrayController = objc.IBOutlet()
     indicator = objc.IBOutlet()
     results = []
+    rowCache = {}
     _cache = None
     
     def getCache(self):
@@ -29,6 +31,13 @@ class MWController(NSObject):
         if self.tableView:
             self.tableView.setTarget_(self)
             self.tableView.setDoubleAction_("open:")
+            self.tableView.setDraggingSourceOperationMask_forLocal_(NSDragOperationCopy, False)
+            
+    def dealloc(self):
+        for key in self.rowCache:
+            value = self.rowCache[key]
+            value.release()
+        super(MWController,self).dealloc()
     
     def open_(self,sender):
         selectedObjs = self.arrayController.selectedObjects()
@@ -42,8 +51,16 @@ class MWController(NSObject):
             NSLog(u"Row has no id!")
             return
         
-        url = u"http://www.freebase.com/view%s" % row['id']
-        webbrowser.open(url)
+        if self.rowCache.has_key(row):
+            rwc = self.rowCache[row]
+            rwc.showWindow_(self)
+        else:
+            rwc =MWRowWindowController.alloc().initWithWindowNibName_(u"RowWindow")
+            rwc.rowDict = row
+            rwc.showWindow_(self)
+            rwc.retain()
+            self.rowCache[row] = rwc
+        
     
     def getCachedSearch(self,searchString):
         if self.cache.has_key(searchString):
